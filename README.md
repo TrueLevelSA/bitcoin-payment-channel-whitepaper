@@ -35,4 +35,4 @@ A `Makefile` is provided to compile the project, just use `make`
 About
 ===
 
-This is a research project sponsored by TrueLevel.
+Authors: Thomas Shababi, Joel Gugger, and Daniel Lebrecht. Copyright (C) TrueLevel SA, Joel Gugger, Daniel Lebrecht.
